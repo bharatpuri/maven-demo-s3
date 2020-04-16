@@ -85,11 +85,11 @@
   
   <distributionManagement>
   <repository>
-    <id>maven-demo-producer</id>
+    <id>maven-repo-demo-bucket</id>
     <url>s3://maven-repo-demo-bucket/release</url>
   </repository>
   <snapshotRepository>
-    <id>maven-demo-producer</id>
+    <id>maven-repo-demo-bucket</id>
     <url>s3://maven-repo-demo-bucket/snapshot</url>
   </snapshotRepository>
 </distributionManagement>
