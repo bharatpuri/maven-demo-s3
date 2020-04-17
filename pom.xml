@@ -92,7 +92,7 @@
 
 <repositories>
 <repository>
-<id>lrs-artifacts-release</id>
+<id>lrs-artifacts</id>
 <name>AWS S3 Release Repository</name>
 <url>s3://maven-repo-demo-bucket/release</url>
 <releases>
